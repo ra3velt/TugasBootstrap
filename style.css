@@ -221,11 +221,14 @@ header.sticky{
 }
 .row{
     display: flex;
-
+}
+.card img{
+    width: 75%;
+    height: 110%;
 }
 .card{
      
-        margin: 15px;
+        margin: 5px;
         border: 0px solid #ccc;
         float: left;
         width: 180px;
